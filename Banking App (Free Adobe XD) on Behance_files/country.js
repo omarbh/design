@@ -1,0 +1,1 @@
+(function () { /*SE Suede Sweden Sverge*/	var country = {'code':'se','id':22,'defaultLangauge':'sv'};	if (!window.evidon) window.evidon = {};	if (window.evidon.notice) {window.evidon.notice.setLocation(country);}	window.evidon.location = country;})(); 
